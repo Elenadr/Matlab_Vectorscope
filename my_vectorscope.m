@@ -145,30 +145,3 @@ function updatePlot(s2,rect)
 end
  
 end
-
-        
-  % for  i=1:92
-        
-        %disp('ATENCI?N');
-        % 639 * (0-1)+1:639*0,:)=    641 +640*(0-1)+1:641+640*(0-1)+630,:);
-  %      j = W*(i-1)+1;
-  %      disp('j');
-  %      disp(j);
-  %      k = W*i;
-  %      disp('k');
-  %      disp(k);
-  %      l = offset+n*(i-1)+1;
-  %      disp('l');
-  %      disp(l)
-  %      q = offset+n*(i-1)+W;
-  %      disp('q');
-  %      disp(q)
-        %points(j:k,:) = map(l:q,:);
-        %i=1
-        %639 :642 , : //
-        %points(1:639,:) = map(642:1280,:);
-  %      points(W*(i-1)+1:W*i,:) = map(offset+n*(i-1)+1:offset+n*(i-1)+W,:);
-  %      x = (points(1*(i-1)+1:1*i,:));
-  %      disp(x);
-  %      y = (map(offset+n*(i-1)+1:offset+n*(i-1)+1,:));
-  % end
